@@ -40,8 +40,3 @@ Este repositorio incluye ejemplos y pruebas prácticas organizadas según los te
 - Optimización de costos y rendimiento.
 
 ---
-
-## 🛠️ Cómo usar este repositorio
-1. **Clona el repositorio**:
-   ```bash
-   git clone https://github.com/tu-usuario/google-pcd-prep.git
