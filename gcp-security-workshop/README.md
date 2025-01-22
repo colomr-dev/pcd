@@ -55,6 +55,15 @@ Pasos específicos:
    - Implementar el cifrado/descifrado
    - Configurar la autenticación
 
+
+[contenido anterior se mantiene igual...]
+
+### Estructura de archivos
+```bash
+src/function/
+├── main.py
+├── requirements.txt
+```
 5. **IAP**:
    - Configurar OAuth consent screen
    - Implementar IAP en la aplicación web
