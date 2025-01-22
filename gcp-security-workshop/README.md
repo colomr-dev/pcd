@@ -64,6 +64,7 @@ src/function/
 ├── main.py
 ├── requirements.txt
 ```
+
 5. **IAP**:
    - Configurar OAuth consent screen
    - Implementar IAP en la aplicación web
