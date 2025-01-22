@@ -18,6 +18,7 @@ gcp-security-workshop/
 │   └── app/
 ├── terraform/
 └── scripts/
+```
 
 
 El ejercicio consistirá en crear una aplicación con los siguientes componentes:
